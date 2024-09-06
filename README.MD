@@ -1,4 +1,4 @@
-# Proyecto de Automatización Web con Screenplay
+# Proyecto de Automatización Mobile con Screenplay
 
 Este es un proyecto de automatización mobile desarrollado utilizando el patrón **Screenplay** en **Java 17** y gestionado con **Gradle 8+**. El propósito de este proyecto es automatizar operaciones de una aplicacion de calculadora
 
